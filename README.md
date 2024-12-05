@@ -5,8 +5,6 @@
 ### 🛠️ Compétences Techniques
 - HTML5
 - CSS3
-- Intégration Web
-- Media Queries
 - Responsive Design
 
 ### 🚀 Projets Réalisés
@@ -19,10 +17,6 @@
 - Tronc commun Développement Web
 - Spécialisation Front-end
 - Cours de Cyber Sécurité
-
-### 🔗 Liens Utiles
-- [LinkedIn]: Bientot.
-- [Portfolio]: Bientot.
 
 ### 📫 Contact
 Pour toute collaboration ou question, n'hésitez pas à me contacter via :
