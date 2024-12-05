@@ -1,16 +1,35 @@
-## Hi there 👋
+### 👨‍🎓 À propos de moi
+- Antoine
+- 19 ans
+- Actuellement en formation de développement informatique. 
+### 🛠️ Compétences Techniques
+- HTML5
+- CSS3
+- Intégration Web
+- Media Queries
+- Responsive Design
 
-<!--
-**antxinerx/antxinerx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Projets Réalisés
+- Fansite - Un site fan créé avec HTML/CSS
+- Portfolio Personnel
+- Projets d'intégration web responsive
+- Exercices de Media Queries
 
-Here are some ideas to get you started:
+### 📚 Formation en cours
+- Tronc commun Développement Web
+- Spécialisation Front-end
+- Cours de Cyber Sécurité
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Liens Utiles
+- [LinkedIn]: Bientot.
+- [Portfolio]: Bientot.
+
+### 📫 Contact
+Pour toute collaboration ou question, n'hésitez pas à me contacter via :
+- Email : rouxantoinepro1@gmail.com
+
+### 📈 Statistiques GitHub
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=antxinerx&show_icons=true&theme=radical)
+
+---
+⭐️ From [antxinerx](https://github.com/antxinerx)
