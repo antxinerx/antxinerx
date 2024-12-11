@@ -14,9 +14,7 @@
 - Exercices de Media Queries
 
 ### 📚 Formation en cours
-- Tronc commun Développement Web
-- Spécialisation Front-end
-- Cours de Cyber Sécurité
+- Développement logiciel
 
 ### 📫 Contact
 Pour toute collaboration ou question, n'hésitez pas à me contacter via :
