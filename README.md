@@ -6,16 +6,13 @@
 - HTML5
 - CSS3
 - Responsive Design
-
+- Pyhton
 ### 🚀 Projets Réalisés
-- Fansite - Un site fan créé avec HTML/CSS
+- Un site créé avec HTML/CSS
 - Portfolio Personnel
 - Projets d'intégration web responsive
-- Exercices de Media Queries
-
 ### 📚 Formation en cours
 - Développement logiciel
-
 ### 📫 Contact
 Pour toute collaboration ou question, n'hésitez pas à me contacter via :
 - Email : rouxantoinepro1@gmail.com
